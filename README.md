@@ -12,6 +12,7 @@ You can find me on [LinkedIn](www.linkedin.com/in/daniel-te-4a5397322), [Twitter
 
 ### Education 
 BSc in Biohealth, Loyola University Maryland (expected 2027)
+
 High School Diploma, Archbishop Curley High School (2023)
 
 ***
