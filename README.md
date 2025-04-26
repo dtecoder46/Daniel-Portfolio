@@ -8,7 +8,7 @@ With skills in making professional emails, scheduling important meetings and eve
 
 My diverse skill set, commitment to hard work, and passion for technology me as a valuable asset.  In my spare time, I like to draw and play video games. 
 
-You can find me on [LinkedIn](www.linkedin.com/in/daniel-te-4a5397322), [Twitter/X](https://x.com/dt_worldpeace) or [Instagram]().
+You can find me on [LinkedIn](www.linkedin.com/in/daniel-te-4a5397322), [Twitter/X](https://x.com/dt_worldpeace) or [Instagram](https://www.instagram.com/epicboi46/).
 
 ### Education 
 BSc in Biohealth, Loyola University Maryland (expected 2027)
