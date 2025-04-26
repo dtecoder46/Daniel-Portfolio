@@ -4,7 +4,7 @@
 Contact Info: dte.biotech46@gmail.com
 
 ### About Me 
-![my profile picture](/assets/img/profile.jpg)
+![my profile picture](/assets/img/profile_pic.png)
 
 I am a current Loyola student and data analytics para-professional with over 3 years of proven expertise in biotech and using sterile technique. 
 
