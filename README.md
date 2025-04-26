@@ -1,4 +1,6 @@
 # Daniel Te
+!(my portfolio banner)[assets/img/Portfolio_Banner.png]
+
 Contact Info: dte.biotech46@gmail.com
 
 ### About Me 
