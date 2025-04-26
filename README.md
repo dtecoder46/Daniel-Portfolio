@@ -1,5 +1,5 @@
 # Daniel Te
-!(my portfolio banner)[/Users/danielte/Desktop/2024:2025/Spring/CS105/Daniel-Portfolio/assets/img/Portfolio_Banner.png]
+!(my portfolio banner)[Daniel-Portfolio/assets/img/Portfolio_Banner.png]
 
 Contact Info: dte.biotech46@gmail.com
 
