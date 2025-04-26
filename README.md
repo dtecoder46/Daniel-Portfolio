@@ -4,6 +4,8 @@
 Contact Info: dte.biotech46@gmail.com
 
 ### About Me 
+![my profile picture](/assets/img/profile.jpg)
+
 I am a current Loyola student and data analytics para-professional with over 3 years of proven expertise in biotech and using sterile technique. 
 
 With skills in making professional emails, scheduling important meetings and events, organizing my files, and managing data using Excel and Access, I am able to quickly manipulate and present data, and efficiently tackle biological and coding problems. I am adept at using Excel, Python, ScreenPal, and Microsoft Access. 
