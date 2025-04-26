@@ -11,7 +11,9 @@ My diverse skill set, commitment to hard work, and passion for technology me as 
 You can find me on [LinkedIn](www.linkedin.com/in/daniel-te-4a5397322), [Twitter/X](https://x.com/dt_worldpeace) or [Instagram]().
 
 ### Education 
-[Fill in Education here]
+BSc in Biohealth, Loyola University Maryland (expected 2027)
+High School Diploma, Archbishop Curley High School (2023)
+
 ***
 ### Projects
 
