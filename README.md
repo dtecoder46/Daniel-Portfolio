@@ -22,17 +22,25 @@ High School Diploma, Archbishop Curley High School (2023)
 ***
 ### Projects
 
-#### Project 1 Title
- - Project 1 Summary
+#### ScreenPal Presentation
+Summary: This project is a video presentation where I discuss all the content I learned in CS105 module 1 through 4, encompassing email, scheduling, file systems, computer terminology, binary, etc.
+
  - [insert project 1 screenshot here]
- - Project 1 Report
+
+Report:
+
 ***
-#### Project 2 Title
- - Project 2 Summary
+#### Python Personality Test
+Summary: This project is a custom personality test designed to match the user to a certain personality (or programming languages in this case) based on simple questions the user answers
+
  - [insert project 2 screenshot here]
- - Project 2 Report
+ 
+ Report:
+
 ***
-#### Project 3 Title
- - Project 3 Summary
+#### Microsoft Access Student Transcripts
+Summary: This project is composed of two Microsoft Access reports that display the grades for two college students’ classes (by semester), averages for each semester, and the overall average grade
+
  - [insert project 3 screenshot here]
- - Project 3 Report
+
+Report:
