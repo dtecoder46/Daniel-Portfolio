@@ -36,7 +36,7 @@ This project is a video presentation where I discuss all the content I learned i
 
 ![Figure 1: A slide from my ScreenPal presentation, showing what I learned in module 2](/assets/img/module2.jpeg)
 
-![Figure 1: A slide from my ScreenPal presentation, showing work I did for module 2](/assets/img/)
+![Figure 1: A slide from my ScreenPal presentation, showing work I did for module 2](/assets/img/module2_example.jpeg)
 
 ***Report***
 
