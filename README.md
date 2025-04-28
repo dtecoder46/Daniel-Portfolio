@@ -81,6 +81,29 @@ This project is a custom personality test designed to match the user to a certai
 
 ***Report***
 
+Idea:
+- I came up with the idea to make a personality test since I felt that encompassed a lot of what I learned about Python, including error-checking, inputs, typecasting, conditions, and logic
+- I set out to address the problem of how to incorporate multiple features of Python into a functional project
+- I felt that this was a problem that needed to be solved because if I never tested all of my Python knowledge, then I would not learn anything and would simply forget about every feature of Python more quickly
+
+Tools:
+- I used the built-in Python 3 environment in JDoodle to complete this project
+
+Challenges:
+- The main challenge I faced was ensuring the personality result was correct, as when I tested it, the program gave me a different result than what was intended
+- How I overcame it:
+  - I rearranged the if statements to ensure the hybrid personalities would be printed out correctly
+  - I added a second condition to ensure that a personality will not be triggered if two-character traits were equal to 0 (which would give me an unintended personality)
+
+Outside resources:
+- I do not remember using outside resources to help with this project
+
+Result:
+- I set out to create a neat, functional personality test that gives accurate results depending on the input
+- I can say that I achieved this goal. The outputs and prompts are cleanly formatted, and after intense testing, the personality test will print out the correct personality
+- If I could take this further, I would add more questions to create a more nuanced, well-rounded test and figure out how to optimize my code
+
+
 ***
 #### Microsoft Access Student Transcripts
 
