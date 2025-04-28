@@ -64,16 +64,26 @@ Result
 
 ***
 #### Python Personality Test
-Summary: This project is a custom personality test designed to match the user to a certain personality (or programming languages in this case) based on simple questions the user answers
 
- - [insert project 2 screenshot here]
- 
- Report:
+***Summary***
+
+This project is a custom personality test designed to match the user to a certain personality (or programming languages in this case) based on simple questions the user answers
+
+***Links***
+
+***Screenshots***
+
+***Report***
 
 ***
 #### Microsoft Access Student Transcripts
-Summary: This project is composed of two Microsoft Access reports that display the grades for two college students’ classes (by semester), averages for each semester, and the overall average grade
 
- - [insert project 3 screenshot here]
+***Summary***
 
-Report:
+This project is composed of two Microsoft Access reports that display the grades for two college students’ classes (by semester), averages for each semester, and the overall average grade
+
+***Links***
+
+***Screenshots***
+
+***Report***
