@@ -69,7 +69,9 @@ Result
 
 This project is a custom personality test designed to match the user to a certain personality (or programming languages in this case) based on simple questions the user answers
 
-***Links***
+***Link***
+
+[Link to run my personality test](https://www.jdoodle.com/ia/1Gva)
 
 ***Screenshots***
 
