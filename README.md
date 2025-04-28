@@ -4,7 +4,7 @@
 Contact Info: dte.biotech46@gmail.com
 
 ### About Me 
-<img src="assets/img/profile_pic.png" alt="Alt Text" width="200" height="200">
+![my profile picture](/assets/img/profile_pic.png)
 
 I am a current Loyola student and data analytics para-professional with over 3 years of proven expertise in biotech and using sterile technique. 
 
@@ -28,7 +28,11 @@ High School Diploma, Archbishop Curley High School (2023)
 
 This project is a video presentation where I discuss all the content I learned in CS105 module 1 through 4, encompassing email, scheduling, file systems, computer terminology, binary, etc.
 
- - [insert project 1 screenshot here]
+***Screenshots***
+
+![Figure 1: A slide from my ScreenPal presentation, showing what I learned in module 2](/assets/img/module2.jpeg)
+
+![]()
 
 ***Report***
 
