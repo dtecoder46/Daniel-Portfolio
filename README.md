@@ -36,7 +36,7 @@ This project is a video presentation where I discuss all the content I learned i
 
 ![Figure 1: A slide from my ScreenPal presentation, showing what I learned in module 2](/assets/img/module2.jpeg)
 
-![Figure 1: A slide from my ScreenPal presentation, showing work I did for module 2](/assets/img/module2_example.jpeg)
+![Figure 2: A slide from my ScreenPal presentation, showing work I did for module 2](/assets/img/module2_example.jpeg)
 
 ***Report***
 
@@ -74,6 +74,10 @@ This project is a custom personality test designed to match the user to a certai
 [Link to run my personality test](https://www.jdoodle.com/ia/1Gva)
 
 ***Screenshots***
+
+![Figure 3: A snippet of the prompting, error-checking, and logical code used in the personality test](/assets/img/personality_code.png)
+
+![Figure 4: A sample of the personality test questions and output](/assets/img/personality_output.png)
 
 ***Report***
 
