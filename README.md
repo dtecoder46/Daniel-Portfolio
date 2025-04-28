@@ -28,11 +28,15 @@ High School Diploma, Archbishop Curley High School (2023)
 
 This project is a video presentation where I discuss all the content I learned in CS105 module 1 through 4, encompassing email, scheduling, file systems, computer terminology, binary, etc.
 
+***Link***
+
+[Link to ScreenPal Presentation](https://go.screenpal.com/watch/cTVvfsnfChw)
+
 ***Screenshots***
 
 ![Figure 1: A slide from my ScreenPal presentation, showing what I learned in module 2](/assets/img/module2.jpeg)
 
-![]()
+![Figure 1: A slide from my ScreenPal presentation, showing work I did for module 2](/assets/img/)
 
 ***Report***
 
