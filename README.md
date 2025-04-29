@@ -113,6 +113,13 @@ This project is composed of two Microsoft Access reports that display the grades
 
 ***Links***
 
+
+
 ***Screenshots***
 
+![Figure 5: A query selecting all course records with name “Bunny”, which is used to make a report (transcript)](/assets/img/bunny_query.png)
+
+![Figure 6: A query selecting all course records with name “Floriano”, which is used to make a report (transcript)](/assets/img/floriano_query.png)
+
 ***Report***
+
