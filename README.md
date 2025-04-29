@@ -123,3 +123,28 @@ This project is composed of two Microsoft Access reports that display the grades
 
 ***Report***
 
+Idea:
+- I came up with the idea to make school transcripts because they are great examples of effectively displaying data
+- I set out to address the problem of how I could take data from Microsoft Access queries and make them presentable
+- I feel like this was a problem that needed to be solved because making reports are crucial to surviving in the professional world. CEOs and the average person cannot understand queries and relationships in databases, so reports allow them to understand your work and indicate you know what you are doing
+
+Tools:
+- I used Microsoft Access 2019 through a virtual desktop service called Apporto to complete this project
+
+Challenges:
+- My biggest challenge in this project was submitting the transcript PDFs to Moodle
+  - Since Apporto did not allow me to upload to OneDrive for some reason, my reports seemed trapped in the virtual desktop
+  - How I overcame it
+    - My Apporto virtual desktop had Google Chrome embedded inside
+    - To transfer to my real desktop, I navigated to the virtual desktop’s Chrome, signed in using my Gmail account, and uploaded the PDFs to Google Drive
+    - Then, I navigated to Google Drive on my real desktop and downloaded the PDFs to my desktop
+
+Other resources:
+- I occasionally used the “Help” feature in Access if I was stumped on how to find or do something
+
+Result:
+- I set out to create a report that is well organized and can accurately calculate grade averages
+- I can say that I achieved this
+  - The report is nicely broken up by semester, and all the classes are arranged as blocks
+  - I verified all of the calculated averages before I submitted the reports, so I am mostly confident that the averages are accurate
+- If I could take this further, I would try to experiment more with the report design to make it more tailored to my personality and interests
