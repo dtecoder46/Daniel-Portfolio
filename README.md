@@ -113,7 +113,9 @@ This project is composed of two Microsoft Access reports that display the grades
 
 ***Links***
 
+[Link to the transcript for "Bunny"](https://drive.google.com/file/d/1tBDBzbDIko_2Tps5kXC0pzUC7O-e9Hlp/view?usp=sharing)
 
+[Link to the transcript for "Floriano"](https://drive.google.com/file/d/1G3h28gAbxrFtydr2VlFbqswCalEypue4/view?usp=sharing)
 
 ***Screenshots***
 
